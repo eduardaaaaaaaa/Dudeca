@@ -1,0 +1,98 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    color: white;
+}
+
+
+    
+
+.capa{
+ padding: 25px;
+}
+
+h1 {
+    font-size: 80px;
+    text-transform: uppercase;
+}
+
+.capa {
+    height: 80vh;
+    background-color: #0D7AE0;
+    text-align: center;
+}
+
+
+.senai{
+    height: 80px;
+}
+
+.sobremim {   
+    display: flex; 
+    justify-content: space-around;
+    align-items: center;
+    height: 60vh;
+    gap: 5px;
+    background-color:#00D108;
+}
+
+.eduarda{
+    text-align: center;
+}
+
+.portfolio{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    height: 60vh;
+    background-color:#E0DD01;
+}
+
+.cnb {
+    display: flex; 
+    justify-content: space-around;
+    align-items: center;
+    height: 80vh;
+    background-color: #00D108;
+    
+}
+
+.cinebrasil{
+    margin-left: 40px;
+   
+}
+.logo{
+   margin-right: 50px;
+  
+}
+.grupos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-align: center;
+    height: 80vh;
+
+}
+.titulosgp{
+    height: 90vh;
+    background-color: #00c0ea;
+}
+h3{
+        margin: 0;
+}
+.grupo{
+    flex: 0 0 20%;
+    margin: 30px;
+}
+.lg{
+    width: auto;
+    height: 90px;
+}
+.lg1{
+    width: auto;
+    height: 50px;
+}
+.duda{
+    height: 200px;
+}
